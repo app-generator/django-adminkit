@@ -1,27 +1,43 @@
-# [Django Dashboard Boilerplate](https://appseed.us/boilerplate-code/django-dashboard)
+# [Django Dashboard](http://appseed.us/admin-dashboards/django) - AdminKit
 
-> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Django](https://www.djangoproject.com/) - Features
+Open-Source **Django Dashboard** coded with basic modules, database, ORM and deployment scripts on top of **AdminKit** (free version), a modern Bootstrap 5 dashboard template.
 
-- UI Kit: **Datta Able Dashboard** (Lite Version) provided by **CodedThemes**
+<br />
+
+> Django Dashboard Features
+
 - SQLite Database, Django Native ORM
 - Modular design, clean codebase
 - Session-Based Authentication, Forms validation
 - Deployment scripts: Docker, Gunicorn / Nginx
 - Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
+<br />
+
 > Links
 
-- [Boierplate Code Django Dashboard](https://boilerplate-code-django-dashboard.appseed.us/) - LIVE Demo
-- [Boierplate Code Django](https://docs.appseed.us/boilerplate-code/django-dashboard/) - Documentation
-- [Boierplate Code Django Dashboard](https://appseed.us/boilerplate-code/django-dashboard) - Official product page
-- More [Django Admin Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **[AppSeed](https://appseed.us)**
-- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
+- [Django Dashboard AdminKit](https://appseed.us/admin-dashboards/django) - WIP
+- [Django Dashboard AdminKit - Demo](https://django-adminkit.appseed-srv1.com/) - LIVE deployment
 
-> Projects that use this starter
+<br />
 
-- [Django Corona Dark](https://appseed.us/admin-dashboards/django-dashboard-corona-dark) - [demo](https://django-dashboard-corona-dark.appseed.us/), [sources](https://github.com/app-generator/django-dashboard-corona-dark)
-- [Django DattaAble PRO](https://appseed.us/admin-dashboards/django-dashboard-dattaable-pro) - [demo](https://django-dashboard-dattaable-pro.appseed.us/)
-- [Django Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - [demo](https://django-dashboard-atlantis-dark.appseed.us/), [sources](https://github.com/app-generator/django-dashboard-atlantis-dark)
+## [AdminKit](https://adminkit.io/?ref=appseed) by AdminKit.io
+
+A professional package that comes with hundreds of UI components, forms, tables, charts, pages and icons. Built on top of Bootstrap 5.
+
+**Built with Bootstrap 5**
+Built on top of the latest version of Bootstrap 5 and HTML5, which means - robust, responsive and easy to customize.
+
+**Dev-to-dev support**
+Our themes are supported by specialists who provide quick and effective support. Usually an email reply takes <24h.
+
+**AdminKit PRO** available
+AdminKit PRO contains over 500+ UI Components ranging from forms and inputs to advanced table and calendar components.
+
+<br />
+
+- [AdminKit](https://adminkit.io/?ref=appseed) - product page
+- [AdminKit PRO](https://adminkit.io/pricing/) - the premium version (more components, pages and PREMIUM support)
 
 <br />
 
@@ -36,7 +52,7 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 <br />
 <br />
 
-![Boierplate Code Django Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/boilerplate-code-django-dashboard/master/media/boilerplate-code-django-dashboard-screen.png)
+![Boierplate Code Django Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-adminkit/master/media/django-adminkit-screen.png)
 
 <br />
 
@@ -44,8 +60,8 @@ PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Suppo
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/boilerplate-code-django-dashboard.git
-$ cd boilerplate-code-django-dashboard
+$ git clone https://github.com/app-generator/django-adminkit.git
+$ cd django-adminkit
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -153,8 +169,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/boilerplate-code-django-dashboard.git
-$ cd boilerplate-code-django-dashboard
+$ git clone https://github.com/app-generator/django-adminkit.git
+$ cd django-adminkit
 ```
 
 > Start the app in Docker
@@ -219,4 +235,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Django Dashboard Boilerplate](https://appseed.us/boilerplate-code/django-dashboard) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Django Dashboard](http://appseed.us/admin-dashboards/django) - AdminKit - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
