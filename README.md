@@ -23,11 +23,6 @@ AdminKit A professional package that comes with hundreds of UI components, forms
 
 <br />
 
-- [AdminKit](https://adminkit.io/?ref=appseed) - product page
-- [AdminKit PRO](https://adminkit.io/pricing/) - the premium version (more components, pages and PREMIUM support)
-
-<br />
-
 ## Want more? Go PRO!
 
 PRO versions include **Premium UI Kits**, Lifetime updates and **24/7 LIVE Support** (via [Discord](https://discord.gg/fZC6hup))
