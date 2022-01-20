@@ -17,7 +17,7 @@
 
 > Links
 
-- 👉 [Django Dashboard AdminKit - Demo](https://django-adminkit.appseed-srv1.com/) - LIVE deployment
+- 👉 [Django AdminKit](https://django-adminkit.appseed-srv1.com/) - LIVE deployment
 - 👉 More [Django Dashboards](https://appseed.us/admin-dashboards/django) - provided by `AppSeed`
 
 <br />
