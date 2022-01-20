@@ -41,6 +41,10 @@ Visit `http://localhost:85` in your browser. The app should be up & running.
 
 <br />
 
+![Boierplate Code Django Dashboard - Template project provided by AppSeed.](https://raw.githubusercontent.com/app-generator/django-adminkit/master/media/django-adminkit-screen.png)
+
+<br />
+
 ## ✨ How to use it
 
 ```bash
